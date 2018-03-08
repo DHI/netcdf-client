@@ -17,9 +17,8 @@ IKVM.NET is an implementation of Java for Mono and the Microsoft .NET Framework.
 •A Java Virtual Machine implemented in .NET
 •A .NET implementation of the Java class libraries
 •Tools that enable Java and .NET interoperability
-2) Netcdf Java Library 4.2 (http://www.unidata.ucar.edu/downloads/netcdf/index.jsp)
-3) MIKE Zero DFS drivers 2011
-4) Teechart .Net 2010 
+2) Netcdf Java Library 4.5 (http://www.unidata.ucar.edu/downloads/netcdf/index.jsp)
+3) MIKE Zero DFS drivers 
 
 === Steps to compile:
 1) Download IKVM and install it
