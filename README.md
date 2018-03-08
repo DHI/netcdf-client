@@ -13,11 +13,7 @@ This tool is developed for MIKE Powered by DHI 2017 and is not actively maintain
 
 Netcdf java library is used in conjunction with IKVM. All 3rd party drivers are included in the 3rd folder except for MIKE SDK. Please download MIKE SDK (free) from the website. (https://www.mikepoweredbydhi.com/download/mike-2017)
 
-1) IKVM (http://www.ikvm.net/)
-IKVM.NET is an implementation of Java for Mono and the Microsoft .NET Framework. It includes the following components:
-•A Java Virtual Machine implemented in .NET
-•A .NET implementation of the Java class libraries
-•Tools that enable Java and .NET interoperability
+1) IKVM (http://www.ikvm.net/) IKVM.NET is an implementation of Java for Mono and the Microsoft .NET Framework. A cloned copy of IKVM is located at https://github.com/gluck/ikvm 
 2) Netcdf Java Library 4.5 (http://www.unidata.ucar.edu/downloads/netcdf/index.jsp)
 3) MIKE SDK (https://www.mikepoweredbydhi.com/download/mike-2017)
 
