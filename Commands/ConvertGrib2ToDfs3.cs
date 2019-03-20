@@ -142,10 +142,10 @@ namespace DHI.Generic.NetCDF.MIKE.Commands
             finally
             {
                 // close file and destroy header
-                if (null != filePointer && 0 != filePointer.ToInt32())
+                if (null != filePointer)
                     DfsDLLWrapper.dfsFileClose(headerPointer, ref filePointer);
 
-                if (null != headerPointer && 0 != headerPointer.ToInt32())
+                if (null != headerPointer)
                     DfsDLLWrapper.dfsHeaderDestroy(ref headerPointer);
             }
         }
